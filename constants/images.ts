@@ -1,0 +1,1 @@
+export const HERO_BG_IMAGE = 'https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=600'
